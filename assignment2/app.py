@@ -1,4 +1,4 @@
-'''
+
 #1.	Grade Checker
 score = int(input("Enter the marks: "))
 
@@ -62,7 +62,7 @@ file.write("Hello, this is a sample text file for file handling")
 file.close()
 
 print("File created and content written successfully.")
-'''
+
 #4. Read from a File
 
 file = open("test.txt", "r")
